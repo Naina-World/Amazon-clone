@@ -92,3 +92,66 @@ span{
 .nav-search:hover{
     border: 2px solid #febd68;
 }
+
+.nav-cart i {
+    font-size: 30px;
+}
+
+.nav-cart {
+    font-size: 0.8rem;font-weight: 700;
+}
+
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+
+.panel-opt p{
+    display: inline;
+    margin-left: 10px;
+   
+}
+
+.panel-opt{
+    width: 70%;
+    font-size: 0.85rem;
+}
+
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+
+}
+
+.hero-section{
+    background-image:url(hero_image.jpg);
+    background-size: cover;
+    height: 350px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+}
+
+
+
+.hero-message{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 25px;
+   
+}
+.hero-message a{
+ color: #007185;
+}
+
+
